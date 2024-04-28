@@ -1,0 +1,17 @@
+#content {
+    background-color: white;
+    border-radius: 10px;
+    width: 40%;
+    float: center;
+}
+body {
+    background-image: url(background.jpg);
+    font-family: "Rubik Doodle Shadow", system-ui;
+  font-weight: 200;
+  font-style: normal;
+}
+h1 {
+    font-family: "Rubik Doodle Triangles", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
